@@ -1,0 +1,12 @@
+api-gateway/.env
+api-gateway/nodule_modules
+
+services/auth/.env
+services/auth/node_modules
+
+services/product/.env
+services/product/node_modules
+
+node_modules
+.env
+.idea

@@ -1,0 +1,20 @@
+{
+  "name": "hyper-microservice-api",
+  "version": "1.0.0",
+  "description": "Hyper Microservice API with user authentication and product catalog",
+  "scripts": {
+    "start": "docker-compose up",
+    "build": "docker-compose build",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "@types/node": "^20.4.5",
+    "jest": "^29.6.2",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
